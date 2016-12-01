@@ -1,0 +1,320 @@
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(1).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(1).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(1).txt:59:Correctly Classified Instances          89               89      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(1).txt:60:Incorrectly Classified Instances        11               11      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(2).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(2).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(2).txt:59:Correctly Classified Instances          89               89      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(2).txt:60:Incorrectly Classified Instances        11               11      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(3).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(3).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(3).txt:59:Correctly Classified Instances          89               89      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(3).txt:60:Incorrectly Classified Instances        11               11      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(4).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(4).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(4).txt:59:Correctly Classified Instances          89               89      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(4).txt:60:Incorrectly Classified Instances        11               11      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(5).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(5).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(5).txt:59:Correctly Classified Instances          88               88      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(5).txt:60:Incorrectly Classified Instances        12               12      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(6).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(6).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(6).txt:59:Correctly Classified Instances          88               88      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(6).txt:60:Incorrectly Classified Instances        12               12      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(7).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(7).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(7).txt:59:Correctly Classified Instances          87               87      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(7).txt:60:Incorrectly Classified Instances        13               13      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(8).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(8).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(8).txt:59:Correctly Classified Instances          87               87      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(8).txt:60:Incorrectly Classified Instances        13               13      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(9).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(9).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(9).txt:59:Correctly Classified Instances          87               87      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(9).txt:60:Incorrectly Classified Instances        13               13      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(10).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(10).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(10).txt:59:Correctly Classified Instances          85               85      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(10).txt:60:Incorrectly Classified Instances        15               15      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(11).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(11).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(11).txt:59:Correctly Classified Instances          86               86      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(11).txt:60:Incorrectly Classified Instances        14               14      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(12).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(12).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(12).txt:59:Correctly Classified Instances          85               85      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(12).txt:60:Incorrectly Classified Instances        15               15      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(13).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(13).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(13).txt:59:Correctly Classified Instances          88               88      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(13).txt:60:Incorrectly Classified Instances        12               12      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(14).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(14).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(14).txt:59:Correctly Classified Instances          86               86      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(14).txt:60:Incorrectly Classified Instances        14               14      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(15).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(15).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(15).txt:59:Correctly Classified Instances          86               86      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(15).txt:60:Incorrectly Classified Instances        14               14      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(16).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(16).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(16).txt:59:Correctly Classified Instances          86               86      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(16).txt:60:Incorrectly Classified Instances        14               14      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(17).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(17).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(17).txt:59:Correctly Classified Instances          84               84      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(17).txt:60:Incorrectly Classified Instances        16               16      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(18).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(18).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(18).txt:59:Correctly Classified Instances          87               87      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(18).txt:60:Incorrectly Classified Instances        13               13      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(19).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(19).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(19).txt:59:Correctly Classified Instances          81               81      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(19).txt:60:Incorrectly Classified Instances        19               19      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(20).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(20).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(20).txt:59:Correctly Classified Instances          88               88      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(20).txt:60:Incorrectly Classified Instances        12               12      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(21).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(21).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(21).txt:59:Correctly Classified Instances          85               85      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(21).txt:60:Incorrectly Classified Instances        15               15      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(22).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(22).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(22).txt:59:Correctly Classified Instances          85               85      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(22).txt:60:Incorrectly Classified Instances        15               15      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(23).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(23).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(23).txt:59:Correctly Classified Instances          82               82      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(23).txt:60:Incorrectly Classified Instances        18               18      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(24).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(24).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(24).txt:59:Correctly Classified Instances          82               82      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(24).txt:60:Incorrectly Classified Instances        18               18      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(25).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(25).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(25).txt:59:Correctly Classified Instances          82               82      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(25).txt:60:Incorrectly Classified Instances        18               18      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(26).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(26).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(26).txt:59:Correctly Classified Instances          84               84      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(26).txt:60:Incorrectly Classified Instances        16               16      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(27).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(27).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(27).txt:59:Correctly Classified Instances          82               82      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(27).txt:60:Incorrectly Classified Instances        18               18      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(28).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(28).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(28).txt:59:Correctly Classified Instances          86               86      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(28).txt:60:Incorrectly Classified Instances        14               14      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(29).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(29).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(29).txt:59:Correctly Classified Instances          85               85      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(29).txt:60:Incorrectly Classified Instances        15               15      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(30).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(30).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(30).txt:59:Correctly Classified Instances          84               84      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(30).txt:60:Incorrectly Classified Instances        16               16      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(31).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(31).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(31).txt:59:Correctly Classified Instances          84               84      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(31).txt:60:Incorrectly Classified Instances        16               16      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(32).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(32).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(32).txt:59:Correctly Classified Instances          82               82      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(32).txt:60:Incorrectly Classified Instances        18               18      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(33).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(33).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(33).txt:59:Correctly Classified Instances          82               82      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(33).txt:60:Incorrectly Classified Instances        18               18      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(34).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(34).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(34).txt:59:Correctly Classified Instances          83               83      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(34).txt:60:Incorrectly Classified Instances        17               17      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(35).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(35).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(35).txt:59:Correctly Classified Instances          81               81      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(35).txt:60:Incorrectly Classified Instances        19               19      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(36).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(36).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(36).txt:59:Correctly Classified Instances          81               81      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(36).txt:60:Incorrectly Classified Instances        19               19      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(37).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(37).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(37).txt:59:Correctly Classified Instances          80               80      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(37).txt:60:Incorrectly Classified Instances        20               20      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(38).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(38).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(38).txt:59:Correctly Classified Instances          83               83      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(38).txt:60:Incorrectly Classified Instances        17               17      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(39).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(39).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(39).txt:59:Correctly Classified Instances          82               82      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(39).txt:60:Incorrectly Classified Instances        18               18      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(40).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(40).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(40).txt:59:Correctly Classified Instances          80               80      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(40).txt:60:Incorrectly Classified Instances        20               20      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(41).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(41).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(41).txt:59:Correctly Classified Instances          81               81      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(41).txt:60:Incorrectly Classified Instances        19               19      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(42).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(42).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(42).txt:59:Correctly Classified Instances          80               80      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(42).txt:60:Incorrectly Classified Instances        20               20      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(43).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(43).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(43).txt:59:Correctly Classified Instances          81               81      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(43).txt:60:Incorrectly Classified Instances        19               19      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(44).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(44).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(44).txt:59:Correctly Classified Instances          82               82      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(44).txt:60:Incorrectly Classified Instances        18               18      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(45).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(45).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(45).txt:59:Correctly Classified Instances          79               79      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(45).txt:60:Incorrectly Classified Instances        21               21      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(46).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(46).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(46).txt:59:Correctly Classified Instances          82               82      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(46).txt:60:Incorrectly Classified Instances        18               18      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(47).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(47).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(47).txt:59:Correctly Classified Instances          80               80      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(47).txt:60:Incorrectly Classified Instances        20               20      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(48).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(48).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(48).txt:59:Correctly Classified Instances          80               80      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(48).txt:60:Incorrectly Classified Instances        20               20      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(49).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(49).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(49).txt:59:Correctly Classified Instances          81               81      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(49).txt:60:Incorrectly Classified Instances        19               19      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(50).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(50).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(50).txt:59:Correctly Classified Instances          82               82      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(50).txt:60:Incorrectly Classified Instances        18               18      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(51).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(51).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(51).txt:59:Correctly Classified Instances          83               83      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(51).txt:60:Incorrectly Classified Instances        17               17      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(52).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(52).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(52).txt:59:Correctly Classified Instances          80               80      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(52).txt:60:Incorrectly Classified Instances        20               20      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(53).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(53).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(53).txt:59:Correctly Classified Instances          78               78      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(53).txt:60:Incorrectly Classified Instances        22               22      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(54).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(54).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(54).txt:59:Correctly Classified Instances          81               81      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(54).txt:60:Incorrectly Classified Instances        19               19      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(55).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(55).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(55).txt:59:Correctly Classified Instances          82               82      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(55).txt:60:Incorrectly Classified Instances        18               18      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(56).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(56).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(56).txt:59:Correctly Classified Instances          80               80      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(56).txt:60:Incorrectly Classified Instances        20               20      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(57).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(57).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(57).txt:59:Correctly Classified Instances          79               79      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(57).txt:60:Incorrectly Classified Instances        21               21      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(58).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(58).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(58).txt:59:Correctly Classified Instances          78               78      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(58).txt:60:Incorrectly Classified Instances        22               22      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(59).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(59).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(59).txt:59:Correctly Classified Instances          79               79      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(59).txt:60:Incorrectly Classified Instances        21               21      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(60).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(60).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(60).txt:59:Correctly Classified Instances          79               79      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(60).txt:60:Incorrectly Classified Instances        21               21      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(61).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(61).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(61).txt:59:Correctly Classified Instances          79               79      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(61).txt:60:Incorrectly Classified Instances        21               21      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(62).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(62).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(62).txt:59:Correctly Classified Instances          80               80      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(62).txt:60:Incorrectly Classified Instances        20               20      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(63).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(63).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(63).txt:59:Correctly Classified Instances          80               80      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(63).txt:60:Incorrectly Classified Instances        20               20      %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(64).txt:57:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(64).txt:58:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(64).txt:59:Correctly Classified Instances          79               79      %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\first\cv\attributes\a(64).txt:60:Incorrectly Classified Instances        21               21      %

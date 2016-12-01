@@ -1,0 +1,97 @@
+
+Options: -P 100 -I 100 -num-slots 0 -K 6 -M 1.0 -V 0.001 -S 1 
+
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 6 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 0.31 seconds
+Time taken to test model on training data: 0.09 seconds
+
+=== Error on training data ===
+
+Correctly Classified Instances        1000              100      %
+Incorrectly Classified Instances         0                0      %
+Kappa statistic                          1     
+Mean absolute error                      0.0178
+Root mean squared error                  0.0423
+Relative absolute error                  9.8834 %
+Root relative squared error             14.1011 %
+Total Number of Instances             1000     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     0
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     1
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     2
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     3
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     4
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     5
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     6
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     7
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     8
+                 1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     9
+Weighted Avg.    1.000    0.000    1.000      1.000    1.000      1.000    1.000     1.000     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   g   h   i   j   <-- classified as
+ 103   0   0   0   0   0   0   0   0   0 |   a = 0
+   0 106   0   0   0   0   0   0   0   0 |   b = 1
+   0   0  99   0   0   0   0   0   0   0 |   c = 2
+   0   0   0 104   0   0   0   0   0   0 |   d = 3
+   0   0   0   0  89   0   0   0   0   0 |   e = 4
+   0   0   0   0   0 104   0   0   0   0 |   f = 5
+   0   0   0   0   0   0 101   0   0   0 |   g = 6
+   0   0   0   0   0   0   0 105   0   0 |   h = 7
+   0   0   0   0   0   0   0   0  91   0 |   i = 8
+   0   0   0   0   0   0   0   0   0  98 |   j = 9
+
+
+=== Error on test data ===
+
+Correctly Classified Instances        4019               95.237  %
+Incorrectly Classified Instances       201                4.763  %
+Kappa statistic                          0.9471
+Mean absolute error                      0.0593
+Root mean squared error                  0.1307
+Relative absolute error                 32.9526 %
+Root relative squared error             43.5435 %
+Total Number of Instances             4220     
+
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.988    0.002    0.986      0.988    0.987      0.985    1.000     0.999     0
+                 0.962    0.008    0.931      0.962    0.947      0.941    0.998     0.983     1
+                 0.955    0.001    0.993      0.955    0.973      0.971    1.000     0.997     2
+                 0.952    0.006    0.952      0.952    0.952      0.946    0.998     0.985     3
+                 0.968    0.006    0.948      0.968    0.958      0.953    0.998     0.988     4
+                 0.976    0.005    0.957      0.976    0.966      0.963    0.999     0.991     5
+                 0.983    0.002    0.979      0.983    0.981      0.979    1.000     0.997     6
+                 0.948    0.010    0.913      0.948    0.930      0.922    0.996     0.977     7
+                 0.899    0.006    0.941      0.899    0.919      0.911    0.995     0.964     8
+                 0.895    0.008    0.928      0.895    0.912      0.902    0.992     0.961     9
+Weighted Avg.    0.952    0.005    0.953      0.952    0.952      0.947    0.998     0.984     
+
+
+=== Confusion Matrix ===
+
+   a   b   c   d   e   f   g   h   i   j   <-- classified as
+ 412   0   0   0   5   0   0   0   0   0 |   a = 0
+   0 407   0   3   2   0   0   2   2   7 |   b = 1
+   0   3 399   1   1   0   2   0  11   1 |   c = 2
+   1   2   0 412   0   8   0   3   4   3 |   d = 3
+   1   0   0   0 417   0   1  11   0   1 |   e = 4
+   1   1   0   0   2 401   1   0   1   4 |   f = 5
+   3   2   0   0   0   1 416   0   1   0 |   g = 6
+   0   0   0   2  10   0   0 398   0  10 |   h = 7
+   0  17   2   2   0   5   5   9 381   3 |   i = 8
+   0   5   1  13   3   4   0  13   5 376 |   j = 9
+

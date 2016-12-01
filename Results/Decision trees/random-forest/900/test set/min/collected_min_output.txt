@@ -1,0 +1,55 @@
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-0.txt:56:=== Error on test data ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-0.txt:57:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-0.txt:58:Correctly Classified Instances        4042               95.782  %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-0.txt:59:Incorrectly Classified Instances       178                4.218  %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-100.txt:56:=== Error on test data ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-100.txt:57:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-100.txt:58:Correctly Classified Instances        3566               84.5024 %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-100.txt:59:Incorrectly Classified Instances       654               15.4976 %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-200.txt:56:=== Error on test data ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-200.txt:57:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-200.txt:58:Correctly Classified Instances        3382               80.1422 %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-200.txt:59:Incorrectly Classified Instances       838               19.8578 %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-300.txt:56:=== Error on test data ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-300.txt:57:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-300.txt:58:Correctly Classified Instances        3152               74.6919 %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-300.txt:59:Incorrectly Classified Instances      1068               25.3081 %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-400.txt:56:=== Error on test data ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-400.txt:57:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-400.txt:58:Correctly Classified Instances        2945               69.7867 %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-400.txt:59:Incorrectly Classified Instances      1275               30.2133 %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-500.txt:56:=== Error on test data ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-500.txt:57:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-500.txt:58:Correctly Classified Instances        2849               67.5118 %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-500.txt:59:Incorrectly Classified Instances      1371               32.4882 %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-600.txt:56:=== Error on test data ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-600.txt:57:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-600.txt:58:Correctly Classified Instances         423               10.0237 %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-600.txt:59:Incorrectly Classified Instances      3797               89.9763 %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-700.txt:56:=== Error on test data ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-700.txt:57:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-700.txt:58:Correctly Classified Instances         423               10.0237 %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-700.txt:59:Incorrectly Classified Instances      3797               89.9763 %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-800.txt:56:=== Error on test data ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-800.txt:57:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-800.txt:58:Correctly Classified Instances         423               10.0237 %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-800.txt:59:Incorrectly Classified Instances      3797               89.9763 %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-900.txt:56:=== Error on test data ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-900.txt:57:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-900.txt:58:Correctly Classified Instances         423               10.0237 %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-900.txt:59:Incorrectly Classified Instances      3797               89.9763 %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-1000.txt:56:=== Error on test data ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-1000.txt:57:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-1000.txt:58:Correctly Classified Instances         423               10.0237 %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\random-forest\900\test set\min\min-1000.txt:59:Incorrectly Classified Instances      3797               89.9763 %

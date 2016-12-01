@@ -1,0 +1,45 @@
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.1).txt:174:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.1).txt:175:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.1).txt:176:Correctly Classified Instances         874               87.4    %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.1).txt:177:Incorrectly Classified Instances       126               12.6    %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.15).txt:174:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.15).txt:175:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.15).txt:176:Correctly Classified Instances         874               87.4    %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.15).txt:177:Incorrectly Classified Instances       126               12.6    %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.2).txt:174:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.2).txt:175:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.2).txt:176:Correctly Classified Instances         874               87.4    %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.2).txt:177:Incorrectly Classified Instances       126               12.6    %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.25).txt:174:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.25).txt:175:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.25).txt:176:Correctly Classified Instances         874               87.4    %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.25).txt:177:Incorrectly Classified Instances       126               12.6    %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.3).txt:174:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.3).txt:175:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.3).txt:176:Correctly Classified Instances         874               87.4    %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.3).txt:177:Incorrectly Classified Instances       126               12.6    %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.35).txt:174:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.35).txt:175:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.35).txt:176:Correctly Classified Instances         874               87.4    %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.35).txt:177:Incorrectly Classified Instances       126               12.6    %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.4).txt:174:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.4).txt:175:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.4).txt:176:Correctly Classified Instances         874               87.4    %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.4).txt:177:Incorrectly Classified Instances       126               12.6    %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.45).txt:174:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.45).txt:175:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.45).txt:176:Correctly Classified Instances         874               87.4    %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.45).txt:177:Incorrectly Classified Instances       126               12.6    %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.5).txt:174:=== Stratified cross-validation ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.5).txt:175:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.5).txt:176:Correctly Classified Instances         874               87.4    %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\900\cv\confidence\c(0.5).txt:177:Incorrectly Classified Instances       126               12.6    %

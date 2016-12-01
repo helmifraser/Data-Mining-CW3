@@ -1,0 +1,55 @@
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.txt:2964:Correctly Classified Instances         977               97.7    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.txt:2965:Incorrectly Classified Instances        23                2.3    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.1.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.1.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.1.txt:2964:Correctly Classified Instances         974               97.4    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.1.txt:2965:Incorrectly Classified Instances        26                2.6    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.2.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.2.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.2.txt:2964:Correctly Classified Instances         973               97.3    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.2.txt:2965:Incorrectly Classified Instances        27                2.7    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.3.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.3.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.3.txt:2964:Correctly Classified Instances         977               97.7    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.3.txt:2965:Incorrectly Classified Instances        23                2.3    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.4.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.4.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.4.txt:2964:Correctly Classified Instances         978               97.8    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.4.txt:2965:Incorrectly Classified Instances        22                2.2    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.5.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.5.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.5.txt:2964:Correctly Classified Instances         977               97.7    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.5.txt:2965:Incorrectly Classified Instances        23                2.3    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.6.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.6.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.6.txt:2964:Correctly Classified Instances         975               97.5    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.6.txt:2965:Incorrectly Classified Instances        25                2.5    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.7.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.7.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.7.txt:2964:Correctly Classified Instances         973               97.3    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.7.txt:2965:Incorrectly Classified Instances        27                2.7    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.8.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.8.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.8.txt:2964:Correctly Classified Instances         972               97.2    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.8.txt:2965:Incorrectly Classified Instances        28                2.8    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.9.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.9.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.9.txt:2964:Correctly Classified Instances         972               97.2    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-0.9.txt:2965:Incorrectly Classified Instances        28                2.8    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-1.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-1.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-1.txt:2964:Correctly Classified Instances         974               97.4    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\learning rate\LR-1.txt:2965:Incorrectly Classified Instances        26                2.6    %

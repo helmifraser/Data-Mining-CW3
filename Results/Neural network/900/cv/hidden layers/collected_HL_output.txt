@@ -1,0 +1,15 @@
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\hidden layers\HL-0.txt:5041:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\hidden layers\HL-0.txt:5042:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\hidden layers\HL-0.txt:5043:Correctly Classified Instances         976               97.6    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\hidden layers\HL-0.txt:5044:Incorrectly Classified Instances        24                2.4    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\hidden layers\HL-1.txt:883:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\hidden layers\HL-1.txt:884:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\hidden layers\HL-1.txt:885:Correctly Classified Instances         961               96.1    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\hidden layers\HL-1.txt:886:Incorrectly Classified Instances        39                3.9    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\hidden layers\HL-2.txt:5811:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\hidden layers\HL-2.txt:5812:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\hidden layers\HL-2.txt:5813:Correctly Classified Instances         979               97.9    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\hidden layers\HL-2.txt:5814:Incorrectly Classified Instances        21                2.1    %

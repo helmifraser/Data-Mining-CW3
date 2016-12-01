@@ -1,0 +1,15 @@
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\test set\hidden layers\HL-0.txt:5040:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\test set\hidden layers\HL-0.txt:5041:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\test set\hidden layers\HL-0.txt:5042:Correctly Classified Instances        4036               95.6398 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\test set\hidden layers\HL-0.txt:5043:Incorrectly Classified Instances       184                4.3602 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\test set\hidden layers\HL-1.txt:882:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\test set\hidden layers\HL-1.txt:883:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\test set\hidden layers\HL-1.txt:884:Correctly Classified Instances        3915               92.7725 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\test set\hidden layers\HL-1.txt:885:Incorrectly Classified Instances       305                7.2275 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\test set\hidden layers\HL-2.txt:5810:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\test set\hidden layers\HL-2.txt:5811:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\test set\hidden layers\HL-2.txt:5812:Correctly Classified Instances        4024               95.3555 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\test set\hidden layers\HL-2.txt:5813:Incorrectly Classified Instances       196                4.6445 %

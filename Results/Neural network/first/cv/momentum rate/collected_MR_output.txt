@@ -1,0 +1,55 @@
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.txt:2964:Correctly Classified Instances          93               93      %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.txt:2965:Incorrectly Classified Instances         7                7      %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.1.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.1.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.1.txt:2964:Correctly Classified Instances          93               93      %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.1.txt:2965:Incorrectly Classified Instances         7                7      %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.2.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.2.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.2.txt:2964:Correctly Classified Instances          93               93      %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.2.txt:2965:Incorrectly Classified Instances         7                7      %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.3.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.3.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.3.txt:2964:Correctly Classified Instances          93               93      %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.3.txt:2965:Incorrectly Classified Instances         7                7      %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.4.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.4.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.4.txt:2964:Correctly Classified Instances          93               93      %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.4.txt:2965:Incorrectly Classified Instances         7                7      %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.5.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.5.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.5.txt:2964:Correctly Classified Instances          93               93      %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.5.txt:2965:Incorrectly Classified Instances         7                7      %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.6.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.6.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.6.txt:2964:Correctly Classified Instances          93               93      %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.6.txt:2965:Incorrectly Classified Instances         7                7      %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.7.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.7.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.7.txt:2964:Correctly Classified Instances          92               92      %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.7.txt:2965:Incorrectly Classified Instances         8                8      %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.8.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.8.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.8.txt:2964:Correctly Classified Instances          91               91      %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.8.txt:2965:Incorrectly Classified Instances         9                9      %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.9.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.9.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.9.txt:2964:Correctly Classified Instances          84               84      %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-0.9.txt:2965:Incorrectly Classified Instances        16               16      %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-1.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-1.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-1.txt:2964:Correctly Classified Instances          10               10      %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\first\cv\momentum rate\MR-1.txt:2965:Incorrectly Classified Instances        90               90      %

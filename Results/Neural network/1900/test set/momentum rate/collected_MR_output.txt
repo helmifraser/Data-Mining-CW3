@@ -1,0 +1,55 @@
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.txt:2963:Correctly Classified Instances        3112               96.646  %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.txt:2964:Incorrectly Classified Instances       108                3.354  %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.1.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.1.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.1.txt:2963:Correctly Classified Instances        3113               96.677  %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.1.txt:2964:Incorrectly Classified Instances       107                3.323  %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.2.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.2.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.2.txt:2963:Correctly Classified Instances        3116               96.7702 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.2.txt:2964:Incorrectly Classified Instances       104                3.2298 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.3.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.3.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.3.txt:2963:Correctly Classified Instances        3118               96.8323 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.3.txt:2964:Incorrectly Classified Instances       102                3.1677 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.4.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.4.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.4.txt:2963:Correctly Classified Instances        3108               96.5217 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.4.txt:2964:Incorrectly Classified Instances       112                3.4783 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.5.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.5.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.5.txt:2963:Correctly Classified Instances        3112               96.646  %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.5.txt:2964:Incorrectly Classified Instances       108                3.354  %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.6.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.6.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.6.txt:2963:Correctly Classified Instances        3120               96.8944 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.6.txt:2964:Incorrectly Classified Instances       100                3.1056 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.7.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.7.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.7.txt:2963:Correctly Classified Instances        3121               96.9255 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.7.txt:2964:Incorrectly Classified Instances        99                3.0745 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.8.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.8.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.8.txt:2963:Correctly Classified Instances        3105               96.4286 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.8.txt:2964:Incorrectly Classified Instances       115                3.5714 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.9.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.9.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.9.txt:2963:Correctly Classified Instances        3086               95.8385 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-0.9.txt:2964:Incorrectly Classified Instances       134                4.1615 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-1.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-1.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-1.txt:2963:Correctly Classified Instances         327               10.1553 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\momentum rate\MR-1.txt:2964:Incorrectly Classified Instances      2893               89.8447 %

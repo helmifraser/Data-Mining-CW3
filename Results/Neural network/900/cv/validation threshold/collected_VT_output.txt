@@ -1,0 +1,55 @@
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-0.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-0.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-0.txt:2964:Correctly Classified Instances         977               97.7    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-0.txt:2965:Incorrectly Classified Instances        23                2.3    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-10.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-10.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-10.txt:2964:Correctly Classified Instances         977               97.7    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-10.txt:2965:Incorrectly Classified Instances        23                2.3    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-20.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-20.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-20.txt:2964:Correctly Classified Instances         977               97.7    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-20.txt:2965:Incorrectly Classified Instances        23                2.3    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-30.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-30.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-30.txt:2964:Correctly Classified Instances         977               97.7    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-30.txt:2965:Incorrectly Classified Instances        23                2.3    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-40.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-40.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-40.txt:2964:Correctly Classified Instances         977               97.7    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-40.txt:2965:Incorrectly Classified Instances        23                2.3    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-50.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-50.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-50.txt:2964:Correctly Classified Instances         977               97.7    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-50.txt:2965:Incorrectly Classified Instances        23                2.3    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-60.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-60.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-60.txt:2964:Correctly Classified Instances         977               97.7    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-60.txt:2965:Incorrectly Classified Instances        23                2.3    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-70.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-70.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-70.txt:2964:Correctly Classified Instances         977               97.7    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-70.txt:2965:Incorrectly Classified Instances        23                2.3    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-80.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-80.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-80.txt:2964:Correctly Classified Instances         977               97.7    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-80.txt:2965:Incorrectly Classified Instances        23                2.3    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-90.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-90.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-90.txt:2964:Correctly Classified Instances         977               97.7    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-90.txt:2965:Incorrectly Classified Instances        23                2.3    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-100.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-100.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-100.txt:2964:Correctly Classified Instances         977               97.7    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\900\cv\validation threshold\VT-100.txt:2965:Incorrectly Classified Instances        23                2.3    %

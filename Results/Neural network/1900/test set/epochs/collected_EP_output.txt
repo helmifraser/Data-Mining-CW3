@@ -1,0 +1,55 @@
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-0.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-0.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-0.txt:2963:Correctly Classified Instances        3116               96.7702 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-0.txt:2964:Incorrectly Classified Instances       104                3.2298 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-100.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-100.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-100.txt:2963:Correctly Classified Instances        3111               96.6149 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-100.txt:2964:Incorrectly Classified Instances       109                3.3851 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-200.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-200.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-200.txt:2963:Correctly Classified Instances        3115               96.7391 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-200.txt:2964:Incorrectly Classified Instances       105                3.2609 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-300.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-300.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-300.txt:2963:Correctly Classified Instances        3116               96.7702 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-300.txt:2964:Incorrectly Classified Instances       104                3.2298 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-400.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-400.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-400.txt:2963:Correctly Classified Instances        3116               96.7702 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-400.txt:2964:Incorrectly Classified Instances       104                3.2298 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-500.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-500.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-500.txt:2963:Correctly Classified Instances        3116               96.7702 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-500.txt:2964:Incorrectly Classified Instances       104                3.2298 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-600.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-600.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-600.txt:2963:Correctly Classified Instances        3116               96.7702 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-600.txt:2964:Incorrectly Classified Instances       104                3.2298 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-700.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-700.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-700.txt:2963:Correctly Classified Instances        3116               96.7702 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-700.txt:2964:Incorrectly Classified Instances       104                3.2298 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-800.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-800.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-800.txt:2963:Correctly Classified Instances        3116               96.7702 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-800.txt:2964:Incorrectly Classified Instances       104                3.2298 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-900.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-900.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-900.txt:2963:Correctly Classified Instances        3116               96.7702 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-900.txt:2964:Incorrectly Classified Instances       104                3.2298 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-1000.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-1000.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-1000.txt:2963:Correctly Classified Instances        3116               96.7702 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\epochs\EP-1000.txt:2964:Incorrectly Classified Instances       104                3.2298 %

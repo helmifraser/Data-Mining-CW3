@@ -1,0 +1,55 @@
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-0.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-0.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-0.txt:2964:Correctly Classified Instances        1953               97.65   %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-0.txt:2965:Incorrectly Classified Instances        47                2.35   %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-100.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-100.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-100.txt:2964:Correctly Classified Instances        1950               97.5    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-100.txt:2965:Incorrectly Classified Instances        50                2.5    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-200.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-200.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-200.txt:2964:Correctly Classified Instances        1953               97.65   %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-200.txt:2965:Incorrectly Classified Instances        47                2.35   %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-300.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-300.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-300.txt:2964:Correctly Classified Instances        1952               97.6    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-300.txt:2965:Incorrectly Classified Instances        48                2.4    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-400.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-400.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-400.txt:2964:Correctly Classified Instances        1953               97.65   %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-400.txt:2965:Incorrectly Classified Instances        47                2.35   %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-500.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-500.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-500.txt:2964:Correctly Classified Instances        1953               97.65   %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-500.txt:2965:Incorrectly Classified Instances        47                2.35   %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-600.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-600.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-600.txt:2964:Correctly Classified Instances        1953               97.65   %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-600.txt:2965:Incorrectly Classified Instances        47                2.35   %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-700.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-700.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-700.txt:2964:Correctly Classified Instances        1953               97.65   %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-700.txt:2965:Incorrectly Classified Instances        47                2.35   %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-800.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-800.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-800.txt:2964:Correctly Classified Instances        1954               97.7    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-800.txt:2965:Incorrectly Classified Instances        46                2.3    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-900.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-900.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-900.txt:2964:Correctly Classified Instances        1954               97.7    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-900.txt:2965:Incorrectly Classified Instances        46                2.3    %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-1000.txt:2962:=== Stratified cross-validation ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-1000.txt:2963:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-1000.txt:2964:Correctly Classified Instances        1954               97.7    %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\cv\epochs\EP-1000.txt:2965:Incorrectly Classified Instances        46                2.3    %

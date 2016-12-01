@@ -1,0 +1,55 @@
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.txt:2963:Correctly Classified Instances        3116               96.7702 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.txt:2964:Incorrectly Classified Instances       104                3.2298 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.1.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.1.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.1.txt:2963:Correctly Classified Instances        3114               96.7081 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.1.txt:2964:Incorrectly Classified Instances       106                3.2919 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.2.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.2.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.2.txt:2963:Correctly Classified Instances        3108               96.5217 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.2.txt:2964:Incorrectly Classified Instances       112                3.4783 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.3.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.3.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.3.txt:2963:Correctly Classified Instances        3116               96.7702 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.3.txt:2964:Incorrectly Classified Instances       104                3.2298 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.4.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.4.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.4.txt:2963:Correctly Classified Instances        3114               96.7081 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.4.txt:2964:Incorrectly Classified Instances       106                3.2919 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.5.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.5.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.5.txt:2963:Correctly Classified Instances        3108               96.5217 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.5.txt:2964:Incorrectly Classified Instances       112                3.4783 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.6.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.6.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.6.txt:2963:Correctly Classified Instances        3120               96.8944 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.6.txt:2964:Incorrectly Classified Instances       100                3.1056 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.7.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.7.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.7.txt:2963:Correctly Classified Instances        3118               96.8323 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.7.txt:2964:Incorrectly Classified Instances       102                3.1677 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.8.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.8.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.8.txt:2963:Correctly Classified Instances        3109               96.5528 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.8.txt:2964:Incorrectly Classified Instances       111                3.4472 %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.9.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.9.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.9.txt:2963:Correctly Classified Instances        3112               96.646  %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-0.9.txt:2964:Incorrectly Classified Instances       108                3.354  %
+
+> C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-1.txt:2961:=== Error on test data ===
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-1.txt:2962:
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-1.txt:2963:Correctly Classified Instances        3115               96.7391 %
+  C:\Users\helmi\Google Drive\Data Mining\Coursework 3\Neural network\1900\test set\learning rate\LR-1.txt:2964:Incorrectly Classified Instances       105                3.2609 %

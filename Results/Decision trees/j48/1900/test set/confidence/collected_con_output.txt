@@ -1,0 +1,45 @@
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.1).txt:235:=== Error on test data ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.1).txt:236:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.1).txt:237:Correctly Classified Instances        2750               85.4037 %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.1).txt:238:Incorrectly Classified Instances       470               14.5963 %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.15).txt:235:=== Error on test data ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.15).txt:236:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.15).txt:237:Correctly Classified Instances        2750               85.4037 %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.15).txt:238:Incorrectly Classified Instances       470               14.5963 %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.2).txt:239:=== Error on test data ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.2).txt:240:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.2).txt:241:Correctly Classified Instances        2751               85.4348 %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.2).txt:242:Incorrectly Classified Instances       469               14.5652 %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.25).txt:235:=== Error on test data ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.25).txt:236:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.25).txt:237:Correctly Classified Instances        2753               85.4969 %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.25).txt:238:Incorrectly Classified Instances       467               14.5031 %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.3).txt:235:=== Error on test data ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.3).txt:236:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.3).txt:237:Correctly Classified Instances        2753               85.4969 %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.3).txt:238:Incorrectly Classified Instances       467               14.5031 %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.35).txt:235:=== Error on test data ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.35).txt:236:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.35).txt:237:Correctly Classified Instances        2753               85.4969 %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.35).txt:238:Incorrectly Classified Instances       467               14.5031 %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.4).txt:235:=== Error on test data ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.4).txt:236:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.4).txt:237:Correctly Classified Instances        2753               85.4969 %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.4).txt:238:Incorrectly Classified Instances       467               14.5031 %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.45).txt:235:=== Error on test data ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.45).txt:236:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.45).txt:237:Correctly Classified Instances        2753               85.4969 %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.45).txt:238:Incorrectly Classified Instances       467               14.5031 %
+
+> C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.5).txt:235:=== Error on test data ===
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.5).txt:236:
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.5).txt:237:Correctly Classified Instances        2753               85.4969 %
+  C:\Users\Helmi\Google Drive\Data Mining\Coursework 3\Decision trees\j48\1900\test set\confidence\c(0.5).txt:238:Incorrectly Classified Instances       467               14.5031 %
